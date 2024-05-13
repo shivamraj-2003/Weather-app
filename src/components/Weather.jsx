@@ -23,7 +23,7 @@ function Weather() {
 
     });
 
-    let api_key = "4a7c3a80e899420ef1ed443c35cf3168";
+    let api_key = "";
 
     const [wicon, setWicon] = useState(cloud);
 
